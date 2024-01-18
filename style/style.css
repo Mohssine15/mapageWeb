@@ -1,4 +1,4 @@
-.textrouge
+ter.textrouge
 {
 color:red;  
 }
@@ -16,7 +16,7 @@ ul {
 }
 
 li {
-  float: left;
+  float: center;
 }
 
 li a {
